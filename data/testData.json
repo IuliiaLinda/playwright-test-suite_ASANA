@@ -1,0 +1,42 @@
+[
+  {
+    "project": "Cross-functional project plan, Project",
+    "tasks": [
+      {
+        "name": "Draft project brief",
+        "column": "To do",
+        "tags": ["Non-Priority", "On track"]
+      },
+      {
+        "name": "Schedule kickoff meeting",
+        "column": "To do",
+        "tags": ["Medium", "At risk"]
+      },
+      {
+        "name": "Share timeline with teammates",
+        "column": "To do",
+        "tags": ["High", "Off track"]
+      }
+    ]
+  },
+  {
+    "project": "Work Requests",
+    "tasks": [
+      {
+        "name": "[Example] Laptop setup for new hire",
+        "column": "New Requests",
+        "tags": ["Medium priority", "Low effort", "New hardware", "Not Started"]
+      },
+      {
+        "name": "[Example] Password not working",
+        "column": "In Progress",
+        "tags": ["Low effort", "Low priority", "Password reset", "Waiting"]
+      },
+      {
+        "name": "[Example] New keycard for Daniela V",
+        "column": "Completed",
+        "tags": ["Low effort", "New hardware", "High Priority", "Done"]
+      }
+    ]
+  }
+]
